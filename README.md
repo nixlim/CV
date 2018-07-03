@@ -15,7 +15,9 @@ Oh, and I like to break and adapt stuff just to see how it works. It tends to wo
 
 #### Attention to detail
 
-I headed several legal due diligence exercises in preparation for regulatory listings, identifying and assisting clients to resolve potentially deal breaking issues. This involved detailed analysis of thousands of pages of legal documentation as well as intricate understanding of clients' businesses and strategic goals. I am the guy who spots that missing ";" in your code.
+I headed several legal due diligence exercises in preparation for regulatory listings, identifying and assisting corporate clients to resolve potentially deal-breaking issues. This involved detailed analysis of thousands of pages of legal documentation as well as intricate understanding of clients' businesses and strategic goals. I am the guy who spots that missing ";" in your code.
+
+Some of the projects I was involved in:
 
 - Parallel Market IPO Launch (Saudi Arabia) [Link](https://www.shearman.com/news-and-events/news/2017/02/parallel-market-of-the-saudi-stock-exchange)
 - Second-largest Rights Issue on Saudi Stock Exchange [Link](https://www.shearman.com/news-and-events/news/2016/09/saudi-rights-issue)
@@ -37,7 +39,8 @@ Not only can I Google well, I actually tend to find the right answers.
 #### Good manager and team player
 
 I have organised, directed, managed and worked within teams carrying out complex legal transactions, measuring progress and reporting to clients and higher management.
-  - Managing the Saudi jurisdiction part of multi-million dollar energy sector merger. This included organising teams, preparing detailed project plans and implementing systems for measuring and managing progress across several jurisdictions.
+
+I was part of the management team in charge of the Saudi jurisdiction part of multi-million dollar energy sector merger. My responsibilities included organising teams, preparing detailed project plans and implementing systems for measuring and managing progress across several jurisdictions. I reported directly to the Head of Corporate for the region.
 
 ## Professional Qualifications
 
@@ -46,7 +49,7 @@ I have organised, directed, managed and worked within teams carrying out complex
 
 ## Education
 
-#### Makers Academy (19 March 2018 to -- July 2018)
+#### Makers Academy (19 March 2018 - July 2018)
 
 Makers Academy is Europe's leading software engineering bootcamp, based in London. 
 
@@ -54,10 +57,20 @@ Makers Academy is Europe's leading software engineering bootcamp, based in Londo
 - Fast, independent learner [ALL THE COOL STUFF I WILL LEARN GOES HERE]
 - Great collaborator [TEAM PROJECT]
 
-    - OOP, TDD, MVC, DDD
-    - Agile/XP
-    - Ruby, Rails, JavaScript
-    - RSpec, Jasmine
+During the course I have worked with the following:
+
+|Language|Frameworks/Packages|Testing Frameworks|
+|:---:|:---:|:---:|
+|Ruby|Sinatra|RSpec|
+|JavaScript|Node.js, Express.js, React.js|Jest, Jasmine, Cypress
+|Java|Spring|JUnit
+|SQL|PostgreSQL|
+
+ 
+  - OOP, TDD, MVC, DDD
+  - Agile/XP
+  - Ruby, Rails, JavaScript
+  - RSpec, Jasmine
 
 #### General Assembly, London
 
