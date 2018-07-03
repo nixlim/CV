@@ -46,7 +46,7 @@ I have organised, directed, managed and worked within teams carrying out complex
 I was part of the management team in charge of the Saudi jurisdiction part of multi-million dollar energy sector merger. My responsibilities included organising teams, preparing detailed project plans and implementing systems for measuring and managing progress across several jurisdictions. I reported directly to the Head of Corporate for the region.
 
 ## Projects
-Projects below are listed in chronological order and the code base is unchanged to when submitted to demonstrate progression.
+Projects below are listed in chronological order with the code base unchanged to demonstrate progression.
 
 |Project|Summary|Technologies|Timeframe|
 |---|---|---|---|
