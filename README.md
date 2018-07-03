@@ -27,9 +27,10 @@ Some of the notable instructions I was involved in are:
 
 #### Quick learner, self-starter
 
-I tend to pick things up fairly quickly and I like to prepare ahead whenever possible. I picked up the details of Saudi legal system within a couple of months and started learning about it prior to actually taking up the post.
-
-I also learned how to build web apps with Java and Spring in about a week as part of a team that delivered the project in 5 days.
+I tend to pick things up fairly quickly and I like to prepare ahead whenever possible:
+ 
+   - gained the requisite level of understanding of Saudi legal system to be in a position to advise clients within two months of starting the job and started learning about it prior to actually taking up the post;
+   - learned how to build web apps with Java and Spring as part of a team that delivered the project in 5 days having never used Java before.
 
 #### Focused under pressure
 
