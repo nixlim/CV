@@ -1,6 +1,6 @@
 ## Igor Ryabchuk
 
-[Profiles](#profiles)
+[Profiles](#profiles) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Professional Qualifications](#professional-qualifications) | [Work Experience](#work-experience)
 
 
 Ever curious tinkerer, aspiring software crafter and seeker of problems in need of solving. I have managed implementation of multi-million dollar deals, sparred with High Court judges and have been conquered by two mischievous kids.  
@@ -20,7 +20,7 @@ Oh, and I like to break and adapt stuff just to see how it works. It tends to wo
 
 I headed several legal due diligence exercises in preparation for regulatory listings, identifying and assisting corporate clients to resolve potentially deal-breaking issues. This involved detailed analysis of thousands of pages of legal documentation as well as intricate understanding of clients' businesses and strategic goals. I am the guy who spots that missing ";" in your code.
 
-Some of the projects I was involved in:
+Some of the notable instructions I was involved in are:
 
 - Parallel Market IPO Launch (Saudi Arabia) [Link](https://www.shearman.com/news-and-events/news/2017/02/parallel-market-of-the-saudi-stock-exchange)
 - Second-largest Rights Issue on Saudi Stock Exchange [Link](https://www.shearman.com/news-and-events/news/2016/09/saudi-rights-issue)
@@ -45,10 +45,18 @@ I have organised, directed, managed and worked within teams carrying out complex
 
 I was part of the management team in charge of the Saudi jurisdiction part of multi-million dollar energy sector merger. My responsibilities included organising teams, preparing detailed project plans and implementing systems for measuring and managing progress across several jurisdictions. I reported directly to the Head of Corporate for the region.
 
-## Professional Qualifications
+## Projects
+Projects below are listed in chronological order and the code base is unchanged to when submitted to demonstrate progression.
 
- - Solicitor of England and Wales
- - Solicitor Advocate (Civil)
+|Project|Summary|Technologies|Timeframe|
+|---|---|---|---|
+|[Airport](https://github.com/nixlim/airport_challenge)|A simple Ruby CLI application simulating an airport control tower operations for landing and taking off. | Ruby, RSpec| 2 days|
+|[Rock, Papers, Scissors](https://github.com/nixlim/rps-challenge)|A web application to play Rock, Paper, Scissors against a computer.|Ruby, Sinatra, Haml, PostgreSQL|2 days|
+|[MakersBnB](https://github.com/samworrall/MakersBnB)|A team project to create a clone of AirBnB.|Java, Spring, Maven, Sequelize, PostgreSQL, JUnit, Cypress, JavaScript, Node.js, Express.js. HTML, CSS| 5 days|
+[Mother Book](https://github.com/anderscodes/mother_acebook)|A team project to create a Heroku-hosted [Facebook clone](https://motherbook.herokuapp.com/) designed to simpulate a real-life engineering project.|Java, Spring, Maven, JavaScript, React.js, HTML, CSS, PostgreSQL, Nightwatch, JUnit|10 days
+|[Bank Tech Test](https://github.com/nixlim/bank_tech_test)|A simple CLI application simulating bank transactions. The purpose of the project was to demonstrate an app built using OOD principles.|Ruby, RSpec|3 days|
+|Retro Mail [Mail Client](https://github.com/charmalt/final-project-client), [SMTP Server](https://github.com/charmalt/final-project-smtp), [POP Server](https://github.com/charmalt/final-project-pop)| A final team project in JavaScript using Node.js that creates an email system - a Javascript-driven mail client with React.js front-end, Express.js API, an SMTP Server and a POP server in JavaScript and an AWS-hosted PostgreSQL database.| JavaScript, Node.js, React.js, Express.js, PostgreSQL, Jest| 10 days
+
 
 ## Education
 
@@ -65,7 +73,7 @@ During the course I have worked with the following:
 
 |Language|Frameworks/Packages|Testing Frameworks|
 |:---:|:---:|:---:|
-|Ruby|Sinatra|RSpec|
+|Ruby|Sinatra, Haml|RSpec|
 |JavaScript|Node.js, Express.js, React.js|Jest, Jasmine, Cypress
 |Java|Spring, Sequelize|JUnit
 |SQL|PostgreSQL|
@@ -102,6 +110,11 @@ I learned to practically apply
 #### University of Manchester
 
 - BA (Econ)(Hons) Accounting and Finance
+
+## Professional Qualifications
+
+ - Solicitor of England and Wales
+ - Solicitor Advocate (Civil)
 
 ## Work Experience
 
