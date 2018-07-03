@@ -1,10 +1,13 @@
 ## Igor Ryabchuk
 
+[Profiles](#profiles)
+
+
 Ever curious tinkerer, aspiring software crafter and seeker of problems in need of solving. I have managed implementation of multi-million dollar deals, sparred with High Court judges and have been conquered by two mischievous kids.  
 
 I am afraid of stale environments, where brains go to die and wits find their end, where all challenge is gone and has been replaced by dreary sameness. I want to keep learning, finding new ways of doing, working and learning, and having a continuous supply of challenges that need facing, solving and, as necessary, overcoming. If, in the process, I could help make this world better - that would be great.
 
-Oh, and I like to break and adapt stuff just to see how it works. It tends to work out with software. I kept on burning hardware so I had to stop messing with that.
+Oh, and I like to break and adapt stuff just to see how it works. It tends to work out with software. I kept on burning the hardware so I had to stop messing with that.
 
 
 ## Profiles
@@ -26,7 +29,7 @@ Some of the projects I was involved in:
 
 I tend to pick things up fairly quickly and I like to prepare ahead whenever possible. I picked up the details of Saudi legal system within a couple of months and started learning about it prior to actually taking up the post.
 
-I also learned [STUFF AT THE MAKERS ACADEMY AT AN AMAZING SPEED, you would not really believe me if I told you - to be filled in later.]
+I also learned how to build web apps with Java and Spring in about a week as part of a team that delivered the project in 5 days.
 
 #### Focused under pressure
 
@@ -49,13 +52,14 @@ I was part of the management team in charge of the Saudi jurisdiction part of mu
 
 ## Education
 
-#### Makers Academy (19 March 2018 - July 2018)
+#### Makers (19 March 2018 - July 2018)
 
-Makers Academy is Europe's leading software engineering bootcamp, based in London. 
+Makers is a London-based 14-week coding bootcamp. I passed the entrance interview and was offered a fellowship.
 
-- Curious and passionate about code. [GITHUB REPOS REFs GO HERE]
-- Fast, independent learner [ALL THE COOL STUFF I WILL LEARN GOES HERE]
-- Great collaborator [TEAM PROJECT]
+- Developed passion for clean, readable code.
+- Built products and systems that work, are delivered on time, to spec and without sacrificing the tests.
+- Learning how to learn, learning independently and developing problem-solving ability. Appreciating that learning never stops.
+- Approaching coding as a serious processes of careful and diligent crafting.
 
 During the course I have worked with the following:
 
@@ -63,14 +67,13 @@ During the course I have worked with the following:
 |:---:|:---:|:---:|
 |Ruby|Sinatra|RSpec|
 |JavaScript|Node.js, Express.js, React.js|Jest, Jasmine, Cypress
-|Java|Spring|JUnit
+|Java|Spring, Sequelize|JUnit
 |SQL|PostgreSQL|
 
- 
-  - OOP, TDD, MVC, DDD
-  - Agile/XP
-  - Ruby, Rails, JavaScript
-  - RSpec, Jasmine
+I learned to practically apply 
+  - Object Oriented Design Principles
+  - Test Driven Development
+  - XP Values
 
 #### General Assembly, London
 
@@ -100,7 +103,7 @@ During the course I have worked with the following:
 
 - BA (Econ)(Hons) Accounting and Finance
 
-## Experience
+## Work Experience
 
 **Dr Sultan Almasoud & Partners in association with Shearman & Sterling LLP, Al Khobar, KSA** (April 2014 to January 2018)    
 *Counsel*  
