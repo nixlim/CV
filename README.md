@@ -48,16 +48,16 @@ I have organised, directed, managed and worked within teams carrying out complex
 I was part of the management team in charge of the Saudi jurisdiction part of multi-million dollar energy sector merger. My responsibilities included organising teams, preparing detailed project plans and implementing systems for measuring and managing progress across several jurisdictions. I reported directly to the Head of Corporate for the region.
 
 ## Projects
-Projects below are listed in chronological order with the code base unchanged to demonstrate progression.
+Projects below are listed in reverse chronological order with the code base unchanged to demonstrate progression.
 
 |Project|Summary|Technologies|Timeframe|
 |---|---|---|---|
-|[Airport](https://github.com/nixlim/airport_challenge)|A simple Ruby CLI application simulating an airport control tower operations for landing and taking off. | Ruby, RSpec| 2 days|
-|[Rock, Papers, Scissors](https://github.com/nixlim/rps-challenge)|A web application to play Rock, Paper, Scissors against a computer.|Ruby, Sinatra, Haml, PostgreSQL|2 days|
-|[MakersBnB](https://github.com/samworrall/MakersBnB)|A team project to create a clone of AirBnB.|Java, Spring, Maven, Sequelize, PostgreSQL, JUnit, Cypress, JavaScript, Node.js, Express.js. HTML, CSS| 5 days|
-[Mother Book](https://github.com/anderscodes/mother_acebook)|A team project to create a Heroku-hosted [Facebook clone](https://motherbook.herokuapp.com/) designed to simpulate a real-life engineering project.|Java, Spring, Maven, JavaScript, React.js, HTML, CSS, PostgreSQL, Nightwatch, JUnit|10 days
+|[Retro Mail](https://github.com/charmalt/final-project-main) ([Mail Client](https://github.com/charmalt/final-project-client), [SMTP Server](https://github.com/charmalt/final-project-smtp), [POP Server](https://github.com/charmalt/final-project-pop))| A final team project in JavaScript using Node.js that creates an email system - a Javascript-driven mail client with React.js front-end, Express.js API, an SMTP Server and a POP server in JavaScript and an AWS-hosted PostgreSQL database.| JavaScript, Node.js, React.js, Express.js, PostgreSQL, Jest| 10 days|
 |[Bank Tech Test](https://github.com/nixlim/bank_tech_test)|A simple CLI application simulating bank transactions. The purpose of the project was to demonstrate an app built using OOD principles.|Ruby, RSpec|3 days|
-|[Retro Mail](https://github.com/charmalt/final-project-main) ([Mail Client](https://github.com/charmalt/final-project-client), [SMTP Server](https://github.com/charmalt/final-project-smtp), [POP Server](https://github.com/charmalt/final-project-pop))| A final team project in JavaScript using Node.js that creates an email system - a Javascript-driven mail client with React.js front-end, Express.js API, an SMTP Server and a POP server in JavaScript and an AWS-hosted PostgreSQL database.| JavaScript, Node.js, React.js, Express.js, PostgreSQL, Jest| 10 days
+[Mother Book](https://github.com/anderscodes/mother_acebook)|A team project to create a Heroku-hosted [Facebook clone](https://motherbook.herokuapp.com/) designed to simpulate a real-life engineering project.|Java, Spring, Maven, JavaScript, React.js, HTML, CSS, PostgreSQL, Nightwatch, JUnit|10 days|
+|[MakersBnB](https://github.com/samworrall/MakersBnB)|A team project to create a clone of AirBnB.|Java, Spring, Maven, Sequelize, PostgreSQL, JUnit, Cypress, JavaScript, Node.js, Express.js. HTML, CSS| 5 days|
+|[Rock, Papers, Scissors](https://github.com/nixlim/rps-challenge)|A web application to play Rock, Paper, Scissors against a computer.|Ruby, Sinatra, Haml, PostgreSQL|2 days|
+|[Airport](https://github.com/nixlim/airport_challenge)|A simple Ruby CLI application simulating an airport control tower operations for landing and taking off. | Ruby, RSpec| 2 days|
 
 
 ## Education
