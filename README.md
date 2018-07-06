@@ -52,7 +52,7 @@ Projects below are listed in reverse chronological order with the code base unch
 
 |Project|Summary|Technologies|Timeframe|
 |---|---|---|---|
-|[Retro Mail](https://github.com/charmalt/final-project-main) ([Mail Client](https://github.com/charmalt/final-project-client), [SMTP Server](https://github.com/charmalt/final-project-smtp), [POP Server](https://github.com/charmalt/final-project-pop))| A final team project in JavaScript using Node.js that creates an email system - a Javascript-driven mail client with React.js front-end, Express.js API, an SMTP Server and a POP server in JavaScript and an AWS-hosted PostgreSQL database.| JavaScript, Node.js, React.js, Express.js, PostgreSQL, Jest| 10 days|
+|[Retro Mail](https://github.com/charmalt/final-project-main) ([Mail Client](https://github.com/charmalt/final-project-client), [SMTP Server](https://github.com/charmalt/final-project-smtp), [POP Server](https://github.com/charmalt/final-project-pop))| A final team project in JavaScript using Node.js that creates an email system - a Javascript-driven mail client with React.js front-end, Express.js API, an SMTP Server and a POP server in JavaScript and an AWS-hosted PostgreSQL database.| JavaScript, Node.js, React.js, Express.js, PostgreSQL, Jest, TravicCI, AWS| 10 days|
 |[Bank Tech Test](https://github.com/nixlim/bank_tech_test)|A simple CLI application simulating bank transactions. The purpose of the project was to demonstrate an app built using OOD principles.|Ruby, RSpec|3 days|
 [Mother Book](https://github.com/anderscodes/mother_acebook)|A team project to create a Heroku-hosted [Facebook clone](https://motherbook.herokuapp.com/) designed to simpulate a real-life engineering project.|Java, Spring, Maven, JavaScript, React.js, HTML, CSS, PostgreSQL, Nightwatch, JUnit|10 days|
 |[MakersBnB](https://github.com/samworrall/MakersBnB)|A team project to create a clone of AirBnB.|Java, Spring, Maven, Sequelize, PostgreSQL, JUnit, Cypress, JavaScript, Node.js, Express.js. HTML, CSS| 5 days|
@@ -64,7 +64,7 @@ Projects below are listed in reverse chronological order with the code base unch
 
 #### Makers (19 March 2018 - July 2018)
 
-Makers is a London-based 14-week coding bootcamp. I passed the entrance interview and was offered a fellowship.
+Makers is a London-based 16-week coding bootcamp. I passed the entrance interview and was offered a fellowship.
 
 - Developed passion for clean, readable code.
 - Built products and systems that work, are delivered on time, to spec and without sacrificing the tests.
